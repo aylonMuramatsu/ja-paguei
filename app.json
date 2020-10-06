@@ -1,0 +1,12 @@
+{
+  "name": "ja-paguei",
+  "displayName": "ja-paguei",
+  "expo": {
+    "name": "ja-paguei",
+    "slug": "ja-paguei",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
